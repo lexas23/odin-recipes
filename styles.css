@@ -1,0 +1,27 @@
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+    height:auto;
+    width:40%;
+}
+.list{
+    color:green;
+    
+}
+
+.ing {
+    background-color:orange;
+
+    font-size: 14px;
+
+}
+.steps{
+    font-size: 18px;
+}
+p{
+    font-weight: 550;
+    color:blueviolet
+}
+
